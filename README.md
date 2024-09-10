@@ -11,6 +11,8 @@ Image Weapon Detection: This script processes individual images, detecting and b
 
 !["detect"](img.png)
 
+!["detect"](img_1.png)
+
 ## Features
 
 - Weapon detection using YOLOv8 models.
