@@ -20,18 +20,18 @@ Image Weapon Detection: This script processes individual images, detecting and b
 - For video processing, the detection results are displayed in real-time.
 - For image processing, detected regions are blurred and displayed.
 
-  ##Applications
+## Applications
 
-  - ✅Surveillance systems
-  - ✅Security monitoring
-  - ✅Restricted area monitoring
-  - ✅Public safety
-  - ✅Automated security alerts
-  - ✅Law enforcement tools
-  - ✅Retail security systems
-  - ✅Workplace safety monitoring
-  - ✅Event security management
-  - ✅Access control systems
+- ✅Surveillance systems
+- ✅Security monitoring
+- ✅Restricted area monitoring
+- ✅Public safety
+- ✅Automated security alerts
+- ✅Law enforcement tools
+- ✅Retail security systems
+- ✅Workplace safety monitoring
+- ✅Event security management
+- ✅Access control systems
 
 ## Requirements
 
